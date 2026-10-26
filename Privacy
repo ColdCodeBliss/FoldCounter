@@ -1,0 +1,40 @@
+FoldCount Privacy Policy
+
+Effective date: October 25, 2026
+
+FoldCount ("the app") is built to respect your privacy. This policy explains what information the app uses and how.
+
+The short version
+• No accounts or sign-ins.
+• No personal data collected. We don't collect, store or share your name, email, contacts, location or any other personal information.
+• No analytics, advertising or tracking. The app has no analytics tools and no ads, and doesn't track you across apps or websites.
+• Your data stays on your device.
+
+Information stored on your device
+To work, FoldCount saves a small amount of information only on your iPhone:
+• Fold counts: your total opens and closes, any folds you add manually, and the time of your most recent fold.
+• Hinge state: whether your device was last open or closed, so counting can continue accurately.
+• Preferences: your appearance settings, such as dark mode and accent color.
+• Community post cache: a copy of the most recent r/iPhoneDuo post shown in the medium widget, so it doesn't have to be downloaded repeatedly.
+
+This information is shared only between the FoldCount app and its own widgets on your device. It is never sent to us or anyone else. Deleting the app removes it.
+
+System information
+The dashboard shows device information such as CPU, memory, network activity, storage, battery and thermal state. This information is read live from your device only while the app is open, and it is not saved or sent anywhere.
+
+Reddit integration
+The medium widget shows the latest post from the public r/iPhoneDuo community on Reddit. To do this:
+• The widget periodically downloads the community's public RSS feed and the post's thumbnail image from Reddit's servers. Reddit's servers receive the standard information included in any internet request, such as your device's IP address, but no account, identifier or personal information is sent.
+• You don't need a Reddit account, and the app never signs in to Reddit.
+• Tapping a post opens it in your web browser on Reddit's website. From then on, Reddit's own Privacy Policy applies: https://www.reddit.com/policies/privacy-policy
+
+FoldCount is not affiliated with or endorsed by Reddit.
+
+Children's privacy
+FoldCount doesn't collect personal information from anyone, including children.
+
+Changes to this policy
+If this policy changes, we'll post the updated version here with a new effective date.
+
+Contact
+Questions about this policy? Contact us at ColdCodeBliss@gmail.com.
